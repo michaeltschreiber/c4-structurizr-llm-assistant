@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # C4 Structurizr System Architecture Modeler
 
 This repository provides tools, examples, and documentation for creating software architecture diagrams using the C4 model with Structurizr DSL. It serves as a comprehensive resource for architects and developers seeking to effectively document and communicate software architecture.
@@ -170,16 +164,3 @@ The systemticks.c4-dsl-extension provides several powerful capabilities[^2]:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://pplx-res.cloudinary.com/image/upload/v1742064869/user_uploads/iVSfehZOZYoETlV/image.jpg
-
-[^2]: https://pplx-res.cloudinary.com/image/upload/v1742065018/user_uploads/HsKUXjtWiSzPkOr/image.jpg
-
-[^3]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_efbac38f-95c8-441b-a701-1f98b06a9c9e/21e5188c-a233-4f87-b3fd-2f23e259a7d3/C4-Structurizr-DSL-Generation-System-Prompt.md
-
-[^4]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_efbac38f-95c8-441b-a701-1f98b06a9c9e/feea8a80-bd3d-490e-b842-4f27f20fd357/example-basic-syntax.c4.txt
-
-[^5]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_efbac38f-95c8-441b-a701-1f98b06a9c9e/b5002099-321a-4a49-882f-070552c5c9f6/example-Comprehensive-example-of-a-modern-e-commerce-system.c4.txt
-
